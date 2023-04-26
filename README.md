@@ -7,7 +7,7 @@ The project is implemented on the basis of **Vue.js**. <br/>
 - The application is a **SPA**.
 - Layout is **adaptive**, works correctly on all devices.
 - Сss frameworks are **not used**.
-- ~~ I made each test question a **separate component** for convenience.~~
+- ~~I made each test question a separate component for convenience~~
 - **I added dynamics to the TestPage component, now all questions and answers are in the data array. You can easily add new questions by writing them to an array.**
 - Also I followed the **BEM methodology** when naming classes for better readability and reusability.
 - **Footer** text implemented using overflow.
