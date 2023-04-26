@@ -1,6 +1,6 @@
 # IQ-test
 
-**Demo link: [DEMO](https://dmytro-matsehora.github.io/IQ-test/)**
+**Demo link: [DEMO](https://dmytro-matsehora.github.io/IQ-test-fixed/)**
 
 The project is implemented on the basis of **Vue.js**. <br/> 
 
